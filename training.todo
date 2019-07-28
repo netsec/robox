@@ -35,3 +35,81 @@ Managing Network Interaction
 Advanced Architecting on Amazon Web Services: Security Architecture
 AWS SysOps Associate: Security and Networking
 AWS SysOps Associate: Monitoring, Metrics Analysis and Deployment
+
+
+Application Developer Security Training
+
+Web Application Security
+OWASP Overview
+OWASP Top 10: List Item Overview
+OWASP A8 and A3: Cross-Site Attacks
+OWASP A7 and A6: Leaky and Unprepared Applications
+OWASP A4 and A2: Broken Applications
+OWASP A5 and A1: Security and Injection
+OWASP A10 and A9: API and Component Attacks
+OWASP Top 10: Mitigate Security
+Introduction to Application Security  
+CSSLP: Secure Software Concepts
+CSSLP: Secure Software Implementation and Coding
+ADM for Application Security
+
+Threat Modeling
+CISSP: Identifying Threats Through Threat Modeling
+CSSLP: Threat Modeling and Documentation
+Certified Cloud Security Professional (CCSP): Threat Modeling and QoS
+CISSP: Risk Management
+CSSLP: Secure Software Design
+
+Security Coding for Java
+Defensive Programming in Java: Fundamentals
+Defensive Programming in Java: Data Handling, Injection Attacks, and Concurrency
+Defensive Programming in Java: Data Security and Access Control
+
+Security Coding for .Net
+Securing .NET Programming
+Defensive Coding Fundamentals for C#
+Defensive Coding for C#
+Defensive Coding Fundamentals for JavaScript and HTML5
+Defensive Coding for JavaScript and HTML5
+Implementing ASP.NET Authentication and Authorization
+OWASP Mitigations for .NET
+
+Cloud Security
+Cloud System Architecture – Concepts and Design
+Cloud Data Security
+Cloud System Security - Platform and Infrastructure
+Cloud Application Security
+Cloud Service – Operations Management
+Cloud Service – Legal and Compliance
+
+ Mobile
+Protecting Data in iOS Apps
+iOS Security Architecture and Application Data Protection
+Defensive Programming in Android: Input and Methods
+Defensive Programming in Android: Using Standards
+Defensive Programming in Android: Errors, Exceptions, and Testing
+Defensive Programming in Android: Network Access and Java Defensive Techniques
+Android Architecture, Protection, and Development Best Practices
+Android Security Vulnerabilities, Testing, and Enterprise Considerations 
+Tips and Tricks for Developing Secure Mobile Apps
+Securing Against Threats, Securing for Enterprise, and Jailbreaking Devices
+
+Other AppDev Courses
+CSSLP: Secure Software Requirements
+CSSLP: Secure Software Testing
+CSSLP: Software Acceptance, Deployment, Operations, Maintenance, and Disposal
+CSSLP: Supply Chain and Software Acquisition
+Cryptography Fundamentals: Defining Cryptography
+Cryptography Fundamentals: Applying Cryptography
+IT Security for End Users: IT Security Fundamentals
+IT Security for End Users: Using Corporate Devices Securely
+IT Security for End Users: Secure Corporate Communications and Networking
+Defensive Coding Fundamentals for C/C++
+Defensive Coding for C/C++
+Thinking Defensively about Functions, Methods, and Input
+Managing Network Interaction
+Errors, Exceptions, and Testing
+PCI Compliance
+Information Security Awareness
+Security Awareness for End Users
+
